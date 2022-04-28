@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\bin\Debug\net5.0\String_Turu.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\bin\Debug\net5.0\String_Turu.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\bin\Debug\net5.0\String_Turu.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\bin\Debug\net5.0\String_Turu.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\bin\Debug\net5.0\String_Turu.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\bin\Debug\net5.0\ref\String_Turu.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\bin\Debug\net5.0\String_Turu.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\obj\Debug\net5.0\String_Turu.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\obj\Debug\net5.0\String_Turu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\obj\Debug\net5.0\String_Turu.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\obj\Debug\net5.0\String_Turu.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\obj\Debug\net5.0\String_Turu.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\obj\Debug\net5.0\String_Turu.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\obj\Debug\net5.0\ref\String_Turu.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\obj\Debug\net5.0\String_Turu.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\String_Turu\obj\Debug\net5.0\String_Turu.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\bin\Debug\net5.0\Positional Record.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\bin\Debug\net5.0\Positional Record.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\bin\Debug\net5.0\Positional Record.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\bin\Debug\net5.0\Positional Record.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\bin\Debug\net5.0\Positional Record.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\bin\Debug\net5.0\ref\Positional Record.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\bin\Debug\net5.0\Positional Record.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\obj\Debug\net5.0\Positional Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\obj\Debug\net5.0\Positional Record.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\obj\Debug\net5.0\Positional Record.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\obj\Debug\net5.0\Positional Record.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\obj\Debug\net5.0\Positional Record.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\obj\Debug\net5.0\ref\Positional Record.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\obj\Debug\net5.0\Positional Record.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Positional Record\obj\Debug\net5.0\Positional Record.genruntimeconfig.cache

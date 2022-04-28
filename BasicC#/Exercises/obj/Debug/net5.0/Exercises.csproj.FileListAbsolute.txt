@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\bin\Debug\net5.0\Exercises.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\bin\Debug\net5.0\Exercises.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\bin\Debug\net5.0\Exercises.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\bin\Debug\net5.0\Exercises.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\bin\Debug\net5.0\Exercises.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\bin\Debug\net5.0\ref\Exercises.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\bin\Debug\net5.0\Exercises.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\obj\Debug\net5.0\Exercises.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\obj\Debug\net5.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\obj\Debug\net5.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\obj\Debug\net5.0\Exercises.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\obj\Debug\net5.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\obj\Debug\net5.0\Exercises.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\obj\Debug\net5.0\ref\Exercises.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\obj\Debug\net5.0\Exercises.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Exercises\obj\Debug\net5.0\Exercises.genruntimeconfig.cache

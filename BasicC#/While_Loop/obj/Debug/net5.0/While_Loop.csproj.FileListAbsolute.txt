@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\bin\Debug\net5.0\While_Loop.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\bin\Debug\net5.0\While_Loop.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\bin\Debug\net5.0\While_Loop.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\bin\Debug\net5.0\While_Loop.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\bin\Debug\net5.0\While_Loop.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\bin\Debug\net5.0\ref\While_Loop.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\bin\Debug\net5.0\While_Loop.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\obj\Debug\net5.0\While_Loop.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\obj\Debug\net5.0\While_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\obj\Debug\net5.0\While_Loop.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\obj\Debug\net5.0\While_Loop.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\obj\Debug\net5.0\While_Loop.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\obj\Debug\net5.0\While_Loop.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\obj\Debug\net5.0\ref\While_Loop.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\obj\Debug\net5.0\While_Loop.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\While_Loop\obj\Debug\net5.0\While_Loop.genruntimeconfig.cache

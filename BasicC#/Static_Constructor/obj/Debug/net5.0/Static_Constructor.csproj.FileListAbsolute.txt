@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\bin\Debug\net5.0\Static_Constructor.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\bin\Debug\net5.0\Static_Constructor.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\bin\Debug\net5.0\Static_Constructor.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\bin\Debug\net5.0\Static_Constructor.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\bin\Debug\net5.0\Static_Constructor.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\bin\Debug\net5.0\ref\Static_Constructor.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\bin\Debug\net5.0\Static_Constructor.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\obj\Debug\net5.0\Static_Constructor.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\obj\Debug\net5.0\Static_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\obj\Debug\net5.0\Static_Constructor.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\obj\Debug\net5.0\Static_Constructor.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\obj\Debug\net5.0\Static_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\obj\Debug\net5.0\Static_Constructor.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\obj\Debug\net5.0\ref\Static_Constructor.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\obj\Debug\net5.0\Static_Constructor.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Static_Constructor\obj\Debug\net5.0\Static_Constructor.genruntimeconfig.cache

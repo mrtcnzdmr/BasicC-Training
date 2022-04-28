@@ -1,0 +1,15 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\bin\Debug\net5.0\SanalYapılar_Virtual_Override.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\bin\Debug\net5.0\SanalYapılar_Virtual_Override.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\bin\Debug\net5.0\SanalYapılar_Virtual_Override.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\bin\Debug\net5.0\SanalYapılar_Virtual_Override.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\bin\Debug\net5.0\SanalYapılar_Virtual_Override.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\bin\Debug\net5.0\ref\SanalYapılar_Virtual_Override.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\bin\Debug\net5.0\SanalYapılar_Virtual_Override.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\obj\Debug\net5.0\SanalYapılar_Virtual_Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\obj\Debug\net5.0\SanalYapılar_Virtual_Override.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\obj\Debug\net5.0\SanalYapılar_Virtual_Override.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\obj\Debug\net5.0\SanalYapılar_Virtual_Override.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\obj\Debug\net5.0\SanalYapılar_Virtual_Override.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\obj\Debug\net5.0\ref\SanalYapılar_Virtual_Override.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\obj\Debug\net5.0\SanalYapılar_Virtual_Override.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\SanalYapılar_Virtual_Override\obj\Debug\net5.0\SanalYapılar_Virtual_Override.genruntimeconfig.cache

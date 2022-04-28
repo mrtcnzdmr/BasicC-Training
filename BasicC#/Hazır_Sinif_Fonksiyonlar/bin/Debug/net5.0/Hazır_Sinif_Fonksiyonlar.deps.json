@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Hazır_Sinif_Fonksiyonlar/1.0.0": {
+        "runtime": {
+          "Hazır_Sinif_Fonksiyonlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hazır_Sinif_Fonksiyonlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

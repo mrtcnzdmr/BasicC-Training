@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\bin\Debug\net5.0\MetotlardaOverloading.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\bin\Debug\net5.0\MetotlardaOverloading.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\bin\Debug\net5.0\MetotlardaOverloading.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\bin\Debug\net5.0\MetotlardaOverloading.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\bin\Debug\net5.0\MetotlardaOverloading.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\bin\Debug\net5.0\ref\MetotlardaOverloading.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\bin\Debug\net5.0\MetotlardaOverloading.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\obj\Debug\net5.0\MetotlardaOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\obj\Debug\net5.0\MetotlardaOverloading.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\obj\Debug\net5.0\MetotlardaOverloading.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\obj\Debug\net5.0\MetotlardaOverloading.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\obj\Debug\net5.0\MetotlardaOverloading.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\obj\Debug\net5.0\ref\MetotlardaOverloading.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\obj\Debug\net5.0\MetotlardaOverloading.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\obj\Debug\net5.0\MetotlardaOverloading.genruntimeconfig.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\MetotlardaOverloading\obj\Debug\net5.0\MetotlardaOverloading.csproj.AssemblyReference.cache

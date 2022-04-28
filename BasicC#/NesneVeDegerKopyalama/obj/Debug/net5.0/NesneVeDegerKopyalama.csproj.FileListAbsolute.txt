@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\bin\Debug\net5.0\NesneVeDegerKopyalama.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\bin\Debug\net5.0\NesneVeDegerKopyalama.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\bin\Debug\net5.0\NesneVeDegerKopyalama.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\bin\Debug\net5.0\NesneVeDegerKopyalama.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\bin\Debug\net5.0\NesneVeDegerKopyalama.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\bin\Debug\net5.0\ref\NesneVeDegerKopyalama.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\bin\Debug\net5.0\NesneVeDegerKopyalama.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\obj\Debug\net5.0\NesneVeDegerKopyalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\obj\Debug\net5.0\NesneVeDegerKopyalama.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\obj\Debug\net5.0\NesneVeDegerKopyalama.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\obj\Debug\net5.0\NesneVeDegerKopyalama.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\obj\Debug\net5.0\NesneVeDegerKopyalama.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\obj\Debug\net5.0\ref\NesneVeDegerKopyalama.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\obj\Debug\net5.0\NesneVeDegerKopyalama.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\obj\Debug\net5.0\NesneVeDegerKopyalama.genruntimeconfig.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NesneVeDegerKopyalama\obj\Debug\net5.0\NesneVeDegerKopyalama.csproj.AssemblyReference.cache

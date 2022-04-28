@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\bin\Debug\net5.0\outKeyword.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\bin\Debug\net5.0\outKeyword.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\bin\Debug\net5.0\outKeyword.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\bin\Debug\net5.0\outKeyword.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\bin\Debug\net5.0\outKeyword.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\bin\Debug\net5.0\ref\outKeyword.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\bin\Debug\net5.0\outKeyword.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\obj\Debug\net5.0\outKeyword.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\obj\Debug\net5.0\outKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\obj\Debug\net5.0\outKeyword.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\obj\Debug\net5.0\outKeyword.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\obj\Debug\net5.0\outKeyword.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\obj\Debug\net5.0\outKeyword.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\obj\Debug\net5.0\ref\outKeyword.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\obj\Debug\net5.0\outKeyword.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\outKeyword\obj\Debug\net5.0\outKeyword.genruntimeconfig.cache

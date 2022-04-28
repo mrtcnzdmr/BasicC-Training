@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\bin\Debug\net5.0\Local_Functions.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\bin\Debug\net5.0\Local_Functions.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\bin\Debug\net5.0\Local_Functions.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\bin\Debug\net5.0\Local_Functions.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\bin\Debug\net5.0\Local_Functions.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\bin\Debug\net5.0\ref\Local_Functions.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\bin\Debug\net5.0\Local_Functions.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\obj\Debug\net5.0\Local_Functions.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\obj\Debug\net5.0\Local_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\obj\Debug\net5.0\Local_Functions.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\obj\Debug\net5.0\Local_Functions.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\obj\Debug\net5.0\Local_Functions.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\obj\Debug\net5.0\Local_Functions.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\obj\Debug\net5.0\ref\Local_Functions.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\obj\Debug\net5.0\Local_Functions.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Local_Functions\obj\Debug\net5.0\Local_Functions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\bin\Debug\net5.0\ArraySınıfıCreateInstance.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\bin\Debug\net5.0\ArraySınıfıCreateInstance.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\bin\Debug\net5.0\ArraySınıfıCreateInstance.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\bin\Debug\net5.0\ArraySınıfıCreateInstance.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\bin\Debug\net5.0\ArraySınıfıCreateInstance.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\bin\Debug\net5.0\ref\ArraySınıfıCreateInstance.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\bin\Debug\net5.0\ArraySınıfıCreateInstance.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\obj\Debug\net5.0\ArraySınıfıCreateInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\obj\Debug\net5.0\ArraySınıfıCreateInstance.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\obj\Debug\net5.0\ArraySınıfıCreateInstance.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\obj\Debug\net5.0\ArraySınıfıCreateInstance.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\obj\Debug\net5.0\ArraySınıfıCreateInstance.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\obj\Debug\net5.0\ref\ArraySınıfıCreateInstance.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\obj\Debug\net5.0\ArraySınıfıCreateInstance.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\obj\Debug\net5.0\ArraySınıfıCreateInstance.genruntimeconfig.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\ArraySınıfıCreateInstance\obj\Debug\net5.0\ArraySınıfıCreateInstance.csproj.AssemblyReference.cache

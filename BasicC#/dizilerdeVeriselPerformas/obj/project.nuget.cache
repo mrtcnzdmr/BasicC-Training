@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7AxMFjzW/xJO5KAiY4f173DvtX6wc7JfbnOkW09pRN6GGHdbjjNpD/GT/rm0DynDZdajCfKqP+iufb+GsB5JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dooms\\OneDrive\\Masaüstü\\Gençay Yıldız C#\\BasicCSaharp\\dizilerdeVeriselPerformas\\dizilerdeVeriselPerformas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dooms\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\dooms\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

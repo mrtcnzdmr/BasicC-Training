@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Recursive(Tekrarlamalı_Onizlemeli)Metotlar/1.0.0": {
+        "runtime": {
+          "Recursive(Tekrarlamalı_Onizlemeli)Metotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recursive(Tekrarlamalı_Onizlemeli)Metotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

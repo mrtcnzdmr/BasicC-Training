@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\bin\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\bin\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\bin\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\bin\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\bin\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\bin\Debug\net5.0\ref\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\bin\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\obj\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\obj\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\obj\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\obj\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\obj\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\obj\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\obj\Debug\net5.0\ref\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\obj\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Recursive(Tekrarlamalı_Onizlemeli)Metotlar\obj\Debug\net5.0\Recursive(Tekrarlamalı_Onizlemeli)Metotlar.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\bin\Debug\net5.0\DeConstructor.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\bin\Debug\net5.0\DeConstructor.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\bin\Debug\net5.0\DeConstructor.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\bin\Debug\net5.0\DeConstructor.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\bin\Debug\net5.0\DeConstructor.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\bin\Debug\net5.0\ref\DeConstructor.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\bin\Debug\net5.0\DeConstructor.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\obj\Debug\net5.0\DeConstructor.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\obj\Debug\net5.0\DeConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\obj\Debug\net5.0\DeConstructor.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\obj\Debug\net5.0\DeConstructor.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\obj\Debug\net5.0\DeConstructor.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\obj\Debug\net5.0\DeConstructor.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\obj\Debug\net5.0\ref\DeConstructor.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\obj\Debug\net5.0\DeConstructor.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\DeConstructor\obj\Debug\net5.0\DeConstructor.genruntimeconfig.cache

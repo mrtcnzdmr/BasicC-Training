@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\bin\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\bin\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\bin\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\bin\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\bin\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\bin\Debug\net5.0\ref\NESNE_TABANLI_PROGRAMLAMA(OOP).dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\bin\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\obj\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\obj\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\obj\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\obj\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\obj\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\obj\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\obj\Debug\net5.0\ref\NESNE_TABANLI_PROGRAMLAMA(OOP).dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\obj\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\NESNE_TABANLI_PROGRAMLAMA(OOP)\obj\Debug\net5.0\NESNE_TABANLI_PROGRAMLAMA(OOP).genruntimeconfig.cache

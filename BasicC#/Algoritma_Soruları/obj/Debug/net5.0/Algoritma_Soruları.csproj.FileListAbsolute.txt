@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\bin\Debug\net5.0\Algoritma_Soruları.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\bin\Debug\net5.0\Algoritma_Soruları.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\bin\Debug\net5.0\Algoritma_Soruları.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\bin\Debug\net5.0\Algoritma_Soruları.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\bin\Debug\net5.0\Algoritma_Soruları.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\bin\Debug\net5.0\ref\Algoritma_Soruları.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\bin\Debug\net5.0\Algoritma_Soruları.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\obj\Debug\net5.0\Algoritma_Soruları.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\obj\Debug\net5.0\Algoritma_Soruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\obj\Debug\net5.0\Algoritma_Soruları.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\obj\Debug\net5.0\Algoritma_Soruları.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\obj\Debug\net5.0\Algoritma_Soruları.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\obj\Debug\net5.0\Algoritma_Soruları.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\obj\Debug\net5.0\ref\Algoritma_Soruları.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\obj\Debug\net5.0\Algoritma_Soruları.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Algoritma_Soruları\obj\Debug\net5.0\Algoritma_Soruları.genruntimeconfig.cache

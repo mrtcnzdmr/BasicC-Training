@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\bin\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\bin\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\bin\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\bin\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\bin\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\bin\Debug\net5.0\ref\Hazır_Sinif_Fonksiyonlar.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\bin\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\obj\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\obj\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\obj\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\obj\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\obj\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\obj\Debug\net5.0\ref\Hazır_Sinif_Fonksiyonlar.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\obj\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\obj\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.genruntimeconfig.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Hazır_Sinif_Fonksiyonlar\obj\Debug\net5.0\Hazır_Sinif_Fonksiyonlar.csproj.AssemblyReference.cache

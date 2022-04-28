@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\bin\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\bin\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\bin\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\bin\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\bin\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\bin\Debug\net5.0\ref\Polimorfizm(Çok_Bicimlilik).dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\bin\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\obj\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\obj\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\obj\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\obj\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\obj\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\obj\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\obj\Debug\net5.0\ref\Polimorfizm(Çok_Bicimlilik).dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\obj\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Polimorfizm(Çok_Bicimlilik)\obj\Debug\net5.0\Polimorfizm(Çok_Bicimlilik).genruntimeconfig.cache

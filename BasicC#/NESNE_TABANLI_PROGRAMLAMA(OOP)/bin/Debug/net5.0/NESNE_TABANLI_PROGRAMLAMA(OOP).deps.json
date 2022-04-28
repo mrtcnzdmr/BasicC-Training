@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NESNE_TABANLI_PROGRAMLAMA(OOP)/1.0.0": {
+        "runtime": {
+          "NESNE_TABANLI_PROGRAMLAMA(OOP).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NESNE_TABANLI_PROGRAMLAMA(OOP)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\bin\Debug\net5.0\Nesne_Kavramı.exe
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\bin\Debug\net5.0\Nesne_Kavramı.deps.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\bin\Debug\net5.0\Nesne_Kavramı.runtimeconfig.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\bin\Debug\net5.0\Nesne_Kavramı.runtimeconfig.dev.json
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\bin\Debug\net5.0\Nesne_Kavramı.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\bin\Debug\net5.0\ref\Nesne_Kavramı.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\bin\Debug\net5.0\Nesne_Kavramı.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\obj\Debug\net5.0\Nesne_Kavramı.csproj.AssemblyReference.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\obj\Debug\net5.0\Nesne_Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\obj\Debug\net5.0\Nesne_Kavramı.AssemblyInfoInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\obj\Debug\net5.0\Nesne_Kavramı.AssemblyInfo.cs
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\obj\Debug\net5.0\Nesne_Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\obj\Debug\net5.0\Nesne_Kavramı.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\obj\Debug\net5.0\ref\Nesne_Kavramı.dll
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\obj\Debug\net5.0\Nesne_Kavramı.pdb
+C:\Users\dooms\OneDrive\Masaüstü\Gençay Yıldız C#\BasicCSaharp\Nesne_Kavramı\obj\Debug\net5.0\Nesne_Kavramı.genruntimeconfig.cache
